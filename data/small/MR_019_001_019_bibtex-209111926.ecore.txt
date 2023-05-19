@@ -1,0 +1,10 @@
+Author#author
+BibTeXEntry#id
+DatedEntry#year
+TitledEntry#title
+BookTitledEntry#booktitle
+Article#journal
+Unpublished#note
+Book#publisher
+InBook#chapter
+ThesisEntry#school

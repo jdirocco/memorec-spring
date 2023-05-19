@@ -1,0 +1,13 @@
+Transition#label
+Transition#sourceLabel
+Transition#targetLabel
+Transition#guardLabel
+Transition#actionLabel
+Transition#guardExpression
+Transition#actionStatement
+State#label
+State#id
+Action#actionLabel
+Action#actionStatement
+StateMachineVariable#type
+StateMachineVariable#name

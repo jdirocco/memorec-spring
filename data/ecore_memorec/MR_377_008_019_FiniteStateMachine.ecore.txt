@@ -1,0 +1,3 @@
+MgaObject#name
+MgaObject#position
+RootFolder#name

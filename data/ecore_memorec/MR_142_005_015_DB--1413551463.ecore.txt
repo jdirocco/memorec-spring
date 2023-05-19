@@ -1,0 +1,3 @@
+NamedElement#name
+Column#type
+ForeignKey#isMany

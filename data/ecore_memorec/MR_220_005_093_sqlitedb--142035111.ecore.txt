@@ -1,0 +1,10 @@
+DatabaseVersions#packageName
+DatabaseVersions#fileName
+NameProvider#name
+MappingEntry#previous
+MappingEntry#current
+StringToTableMappingEntryMap#key
+StringToColumnMappingEntryMap#key
+TableConstraint#name
+Column#type
+ColumnConstraint#name

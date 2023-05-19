@@ -1,0 +1,5 @@
+Table#Name
+Column#Name
+Column#Type
+Column#IsPrimaryKey
+ForeignKey#Name

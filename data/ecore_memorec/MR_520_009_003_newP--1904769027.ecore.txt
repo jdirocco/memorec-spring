@@ -1,0 +1,12 @@
+Requirement#name
+Requirement#identifier
+Requirement#priority
+Requirement#mandatory
+TextDescription#text
+Category#name
+Specification#name
+Person#firstName
+Person#lastName
+UnaryOperator#name
+Requires#name
+SimpleDependency#name

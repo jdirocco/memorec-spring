@@ -1,0 +1,8 @@
+Resource#name
+Place#name
+Storage#count
+Storage#capacity
+Transaction#name
+AssureStatement#count
+TakeStatement#count
+PutStatement#count

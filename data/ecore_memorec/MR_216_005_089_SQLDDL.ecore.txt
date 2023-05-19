@@ -1,0 +1,12 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+NamedElement#name
+Column#name
+Column#canBeNull
+Key#isUnique
+Key#name
+Type#length
+Type#isUnsigned
+IntegerVal#value
+StringVal#value

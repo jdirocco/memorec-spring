@@ -1,0 +1,4 @@
+NamedElement#name
+Column#type
+Column#size
+Column#primary

@@ -1,0 +1,15 @@
+TokenAttribute#type
+TokenAttribute#name
+TokenAttribute#value
+TokenWeight#weight
+Variable#name
+Monom#power
+MonomConstant#power
+Synchronization#kind
+Synchronization#key
+INetElement#name
+INetElement#comment
+IEntityIdentifiable#uuid
+NPNSymbolNodeSN#constraints
+NPNSymbolArcSN#bendpoints
+NPNSymbolTokenSN#constraints

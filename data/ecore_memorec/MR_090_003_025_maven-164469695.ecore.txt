@@ -1,0 +1,6 @@
+GroupAndArtifact#artifactId
+GroupAndArtifact#groupId
+MapEntry#name
+MavenProvider#transitive
+Scope#name
+Scope#exclude

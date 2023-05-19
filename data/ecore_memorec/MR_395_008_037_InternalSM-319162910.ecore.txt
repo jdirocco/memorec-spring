@@ -1,0 +1,9 @@
+State#label
+StateMachine#priority
+StateMachine#context
+InternalExecutionModel#context
+TimeConstraintSpecification#id
+TimeConstraintSpecification#expectedLength
+TimeConstraintSpecification#startTimestamp
+TimeConstraintSpecification#stopTimestamp
+TimeConstraint#type

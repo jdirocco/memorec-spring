@@ -1,0 +1,11 @@
+HierarchicalElement#nextReqIndex
+CurrentRequirement#impacted
+Attribute#name
+ConfiguratedAttribute#name
+ConfiguratedAttribute#type
+AttributeValue#value
+IdentifiedElement#identifier
+IdentifiedElement#shortDescription
+TextAttribute#value
+AttributeLink#partial
+Requirement#externalResources

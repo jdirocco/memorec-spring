@@ -1,0 +1,7 @@
+Named#name
+Named#comment
+GAbstractAction#kind
+Transition#preserveTimers
+GStatemachine#package
+Call#actionId
+ConstantValue#value

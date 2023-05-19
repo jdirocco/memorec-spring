@@ -1,0 +1,5 @@
+TypedElement#type
+ElementWithIL#name
+ElementWithIL#label
+TextElement#description
+Attribute#value

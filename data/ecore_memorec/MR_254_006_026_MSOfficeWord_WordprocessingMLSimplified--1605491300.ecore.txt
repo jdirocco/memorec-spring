@@ -1,0 +1,6 @@
+StringType#val
+BreakElt#type
+NoteElt#type
+NoteElt#suppressRef
+FldCharElt#fldCharType
+FldCharElt#fldLock

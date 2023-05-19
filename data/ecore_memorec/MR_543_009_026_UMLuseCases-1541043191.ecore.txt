@@ -1,0 +1,5 @@
+NamedElement#name
+NamedElement#visibility
+NamedElement#qualifiedName
+Classifier#isAbstract
+RedefinableElement#isLeaf

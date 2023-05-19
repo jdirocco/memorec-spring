@@ -1,0 +1,16 @@
+NamedElement#name
+DescribedElement#description
+SeparatedElement#separator
+Database#dsn
+User#password
+View#sql
+Domain#type
+FileSet#hostname
+File#files
+File#numberOfHeaderLines
+Field#length
+Field#position
+Field#type
+SCTFile#file
+Mapping#expression
+Task#fileName

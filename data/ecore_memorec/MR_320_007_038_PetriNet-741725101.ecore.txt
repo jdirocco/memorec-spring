@@ -1,0 +1,7 @@
+PetriNet#name
+Transition#min_time
+Transition#max_time
+Node#name
+Place#marking
+Arc#weight
+Arc#kind

@@ -1,0 +1,5 @@
+NamedElement#name
+DataBase#SGBDname
+Column#dataType
+Column#null
+Column#defaultValue

@@ -1,0 +1,13 @@
+SignalEvent#identifier
+Variable#identifier
+TimeConstant#value
+TimeConstant#unit
+VariableAssignment#operator
+Procedure#identifier
+EqualityExpression#operator
+RelationalExpression#operator
+ShiftExpression#operator
+AdditiveExpression#operator
+MultiplicativeExpression#operator
+UnaryExpression#operator
+LiteralValue#value

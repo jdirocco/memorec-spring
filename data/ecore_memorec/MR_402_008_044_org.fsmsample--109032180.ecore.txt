@@ -1,0 +1,5 @@
+FSM#name
+State#name
+Transition#input
+Transition#output
+Action#name

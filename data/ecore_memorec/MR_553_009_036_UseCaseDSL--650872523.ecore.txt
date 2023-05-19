@@ -1,0 +1,17 @@
+Actor#description
+Actor#name
+Actor#type
+ExceptionFlow#condition
+Flow#finalState
+LocalAlternative#description
+NamedFlow#name
+NormalStep#customStepType
+PackageDeclaration#description
+PackageDeclaration#name
+Step#label
+Step#name
+StepAlternative#condition
+UseCase#description
+UseCase#name
+UseCase#postcondition
+UseCase#preConditions

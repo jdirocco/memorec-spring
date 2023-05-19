@@ -1,0 +1,4 @@
+LocatedElement#location
+IdedElement#id
+URI#value
+Label#text

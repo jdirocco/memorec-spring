@@ -1,0 +1,14 @@
+DBMapperTableEntry#name
+DBMapperTableEntry#expression
+DBMapperTableEntry#type
+DBMapperTableEntry#nullable
+DBMapperTableEntry#join
+DBMapperTableEntry#operator
+AbstractDBDataMapTable#name
+AbstractDBDataMapTable#minimized
+AbstractDBDataMapTable#readonly
+AbstractDBDataMapTable#tableName
+InputTable#joinType
+InputTable#alias
+FilterEntry#name
+FilterEntry#expression

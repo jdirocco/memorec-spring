@@ -1,0 +1,6 @@
+Content#name
+State#name
+Automaton#name
+Operation#name
+Participant#name
+Value#value

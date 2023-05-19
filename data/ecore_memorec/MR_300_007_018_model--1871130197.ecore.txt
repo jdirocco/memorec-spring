@@ -1,0 +1,9 @@
+HasId#id
+PetriNet#type
+ToolInfo#tool
+ToolInfo#version
+HLAnnotationAddin#text
+HLArcAddin#type
+Instance#subPageID
+ParameterAssignment#parameter
+ParameterAssignment#value

@@ -1,0 +1,12 @@
+CommentedElement#comment
+NamedElement#name
+Attribute#type
+Attribute#maxLength
+Relationship#type
+Relationship#isNullable
+Relationship#isContainment
+DataParameter#type
+Function#returnType
+EntityForm#type
+Property#isNullable
+Property#defaultValue

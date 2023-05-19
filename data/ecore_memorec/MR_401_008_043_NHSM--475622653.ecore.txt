@@ -1,0 +1,4 @@
+State#name
+Transition#trigger
+Transition#effect
+StateMachine#name

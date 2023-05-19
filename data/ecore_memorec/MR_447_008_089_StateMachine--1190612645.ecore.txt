@@ -1,0 +1,10 @@
+State#name
+State#isActive
+Event#name
+Expression#operator
+Expression#_name
+BooleanData#value
+IntegerData#value
+Variable#name
+Assignment#_name
+VariableReference#_name

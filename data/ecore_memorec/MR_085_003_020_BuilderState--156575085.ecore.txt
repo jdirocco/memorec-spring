@@ -1,0 +1,11 @@
+ResourceDescription#URI
+ResourceDescription#importedNames
+EObjectDescription#fragment
+UserDataEntry#key
+UserDataEntry#value
+ReferenceDescription#externalFormOfEReference
+IEObjectDescription#name
+IReferenceDescription#sourceEObjectUri
+IReferenceDescription#targetEObjectUri
+IReferenceDescription#indexInList
+IReferenceDescription#containerEObjectURI

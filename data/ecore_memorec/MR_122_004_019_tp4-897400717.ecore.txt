@@ -1,0 +1,16 @@
+PublicationProcess#minTime
+PublicationProcess#maxTime
+Researcher#name
+Researcher#forName
+Paragraph#content
+ReviewNote#content
+Progress#percent
+Write#timeSpent
+Review#date
+Named#name
+Counted#id
+Labelled#lname
+Skill#description
+Position#description
+Phases#name
+Keyword#description

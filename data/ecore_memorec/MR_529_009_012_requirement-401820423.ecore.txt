@@ -1,0 +1,12 @@
+Category#id
+Requirement#id
+Requirement#version
+Requirement#statement
+Requirement#rationale
+Requirement#acceptanceCriteria
+Requirement#type
+Requirement#subtype
+Requirement#status
+Requirement#createdOn
+Requirement#modifiedOn
+NamedElement#name

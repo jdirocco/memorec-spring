@@ -1,0 +1,10 @@
+Transition#label
+Transition#sourceLabel
+Transition#targetLabel
+Transition#guardLabel
+Transition#actionLabel
+State#label
+State#id
+Action#actionLabel
+StateMachineVariable#name
+StateMachineVariable#type

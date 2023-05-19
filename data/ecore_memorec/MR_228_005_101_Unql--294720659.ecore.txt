@@ -1,0 +1,9 @@
+Definition#name
+Definition#type
+Connection#name
+Connection#url
+Connection#username
+Connection#password
+Select#attributes
+Select#relations
+Select#conditions

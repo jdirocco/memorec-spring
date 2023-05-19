@@ -1,0 +1,7 @@
+UrmlModelElement#reviewed
+Goal#soft
+Goal#type
+GoalReference#weight
+Requirement#terminal
+ProceduralMitigation#mitigationProcedure
+VariationPoint#multiplicity

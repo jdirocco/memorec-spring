@@ -1,0 +1,6 @@
+Network#name
+Node#name
+Arc#readOnly
+Arc#kind
+Arc#tokensCount
+Place#tokensCount

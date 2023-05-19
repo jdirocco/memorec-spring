@@ -1,0 +1,16 @@
+LocatedElement#location
+LocatedElement#commentsBefore
+LocatedElement#commentsAfter
+ViewStatement#name
+InsertStmt#tableName
+NamedElement#name
+Table#alias
+BinaryExp#opName
+NotExp#opName
+LikeExp#columnName
+InExp#columnName
+OperationExp#optName
+ColumnExp#alias
+StringValueExp#aValue
+IntegerValueExp#aValue
+FunctionExp#name

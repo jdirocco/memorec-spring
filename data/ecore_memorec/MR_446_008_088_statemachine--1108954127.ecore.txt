@@ -1,0 +1,17 @@
+Region#priority
+Node#name
+Node#id
+Transition#priority
+Transition#expression
+Transition#id
+State#entry
+State#do
+State#exit
+Pseudostate#pseudoType
+DataElement#name
+DataElement#ioType
+DataElement#port
+Variable#dataType
+Event#trigger
+Statechart#name
+Statechart#UUID

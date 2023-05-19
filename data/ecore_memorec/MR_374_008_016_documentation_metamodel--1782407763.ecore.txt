@@ -1,0 +1,5 @@
+Transition#/name
+Trigger#/name
+Behavior#/name
+Pseudostate#kind
+Vertex#/name

@@ -1,0 +1,8 @@
+NamedElement#name
+State#initialTime
+State#finalTime
+Transition#initialTime
+Transition#finalTime
+Transition#time
+TimedTransition#duration
+Trigger#expression

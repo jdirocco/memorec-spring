@@ -1,0 +1,17 @@
+Column#default
+Column#nullable
+Column#precision
+Column#length
+ForeignKey#deleteActionRHS
+ForeignKey#updateActionRHS
+ForeignKey#match
+ForeignKey#inverseReferentialIntegrityCon
+Constraints#deferrable
+Constraints#deferred
+CheckCon#checkCondition
+SystemDataType#predefinedLength
+SystemDataType#predefinedDecPlaces
+ModelElement#name
+UserDefinedDataType#precision
+UserDefinedDataType#length
+UserDefinedDataType#defaultValue

@@ -1,0 +1,8 @@
+ShellCmd#name
+VarSlashSym#name
+Ifndef#name
+HostProgram#name
+MyVariable#name
+ObjectSingleFile#name
+ObjectVariable#additional
+ObjectShellChar#value

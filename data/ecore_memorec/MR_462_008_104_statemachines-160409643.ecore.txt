@@ -1,0 +1,4 @@
+Statemachine#translation
+Statemachine#selfName
+Transition#operations
+State#active

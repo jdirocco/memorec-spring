@@ -1,0 +1,9 @@
+Import#importedNamespace
+EventDefinition#direction
+VariableDefinition#const
+VariableDefinition#readonly
+VariableDefinition#external
+EntryPointSpec#entrypoint
+ExitPointSpec#exitpoint
+TimeEventSpec#type
+TimeEventSpec#unit

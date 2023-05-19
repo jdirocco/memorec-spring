@@ -1,0 +1,14 @@
+Database#name
+Table#name
+Attribute#attributeName
+Integer#integer
+Integer#length
+Varchar#varchar
+Varchar#length
+Text#text
+DateTime#date
+PrimaryKey#primaryKey
+AutoIncrement#autoIncrement
+Nullable#nullable
+ForeignKey#tableName
+ForeignKey#attributeName

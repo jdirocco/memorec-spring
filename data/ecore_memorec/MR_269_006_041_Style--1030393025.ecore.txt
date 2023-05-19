@@ -1,0 +1,16 @@
+StyleContainerElement#name
+StyleContainerElement#description
+StyleLayout#transparency
+StyleLayout#gradient_orientation
+StyleLayout#lineWidth
+StyleLayout#lineStyle
+StyleLayout#fontName
+StyleLayout#fontSize
+StyleLayout#fontItalic
+StyleLayout#fontBold
+GradientColorArea#offset
+RGBColor#red
+RGBColor#green
+RGBColor#blue
+ColorConstantRef#value
+Transparent#transparent

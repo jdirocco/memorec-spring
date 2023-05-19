@@ -1,0 +1,14 @@
+Requirement#refinementType
+DefinableRequirement#time
+DefinableRequirement#state
+PerformativeRequirement#startTime
+AwReq#incrementCoefficient
+DifferentialRelation#lowerBound
+DifferentialRelation#upperBound
+DifferentialRelation#operator
+DifferentialRelation#value
+GoalModel#internalId
+Parameter#type
+Parameter#unit
+Parameter#value
+Parameter#metric

@@ -1,0 +1,5 @@
+Schema#name
+Table#name
+Table#is_local
+Column#type
+Column#name

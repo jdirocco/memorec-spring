@@ -1,0 +1,7 @@
+State#label
+State#type
+State#activity
+Transition#expression
+Variable#type
+Variable#value
+NamedElement#name

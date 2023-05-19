@@ -1,0 +1,8 @@
+INamedElement#name
+Var#identifier
+BoolConst#value
+IntConst#value
+Operation#operator
+Port#type
+State#isInitial
+DataStateVariable#type

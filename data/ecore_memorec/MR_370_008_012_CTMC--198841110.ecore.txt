@@ -1,0 +1,6 @@
+CTMC#name
+State#name
+State#exitRate
+Transition#prob
+Transition#rate
+Label#name

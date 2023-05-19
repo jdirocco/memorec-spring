@@ -1,0 +1,11 @@
+StylingModel#modeName
+Icon#image
+Style#appliedFonts
+Style#color
+ConstantPattern#value
+ModelPattern#attributeName
+OperationPattern#operation
+Parameter#name
+IntParameter#value
+BooleanParameter#value
+StringParameter#value

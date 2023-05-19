@@ -1,0 +1,8 @@
+Module#name
+Statemachine#initial
+Statemachine#name
+Statemachine#value
+Event#name
+State#initial
+State#name
+SimpleState#value

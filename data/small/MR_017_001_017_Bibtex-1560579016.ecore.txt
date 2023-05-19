@@ -1,0 +1,4 @@
+LiteratureDb#name
+Entry#title
+Entry#id
+Author#name

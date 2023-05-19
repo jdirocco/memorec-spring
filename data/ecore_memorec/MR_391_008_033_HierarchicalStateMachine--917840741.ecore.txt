@@ -1,0 +1,13 @@
+MgaObject#name
+MgaObject#position
+StateBase#defaultTransition
+StateBase#marked
+Transition#guard
+Transition#trigger
+Transition#action
+Transition#isSync
+StateDateRelation#value
+StateDateRelation#color
+RootFolder#name
+StateDataRelation#value
+StateDataRelation#color

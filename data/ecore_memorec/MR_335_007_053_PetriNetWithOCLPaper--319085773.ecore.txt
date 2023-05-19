@@ -1,0 +1,6 @@
+PetriNet#name
+Transition#name
+ArcPT#inscription
+ArcTP#inscription
+Place#name
+Place#token

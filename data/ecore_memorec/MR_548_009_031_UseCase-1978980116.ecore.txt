@@ -1,0 +1,11 @@
+Subsystem#name
+Case#name
+ExtensionPoint#name
+Includes#name
+Includes#rules
+Extends#name
+Extends#rules
+Actor#name
+Inheritance#name
+Uses#name
+Uses#multiplicity

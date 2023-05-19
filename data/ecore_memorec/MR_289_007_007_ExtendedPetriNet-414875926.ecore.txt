@@ -1,0 +1,5 @@
+Identity#text
+InteractiveInput#text
+Token#text
+InputPlaceAppearance#text
+GeometryLabel#text

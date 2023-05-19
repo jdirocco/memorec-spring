@@ -1,0 +1,8 @@
+State#initial
+State#final
+State#id
+State#name
+SetCommand#signal
+ExecuteCommand#operation
+VerbatimExpression#code
+StatePropertyExpression#property

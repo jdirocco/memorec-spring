@@ -1,0 +1,16 @@
+CatalogElement#id
+CatalogElement#name
+CatalogElement#description
+Persona#picture
+Story#goal
+Story#benefit
+Story#completed
+Scenario#context
+Scenario#action
+Scenario#outcome
+ConditionalProtagonist#condition
+Goal#name
+Goal#details
+Parameter#name
+Parameter#type
+Parameter#description

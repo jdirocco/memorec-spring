@@ -1,0 +1,7 @@
+Node#name
+Connector#public
+Transition#priority_number
+Event#eventliteral
+Function#sourcecode
+History#depth
+History#hot

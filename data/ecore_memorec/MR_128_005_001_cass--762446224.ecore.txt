@@ -1,0 +1,17 @@
+Keyspace#name
+ColumnFamily#name
+Row#key
+Column#key
+Column#timestamp
+SuperColumn#key
+IntegerType#value
+UTF8Type#value
+FloatType#value
+BooleanType#value
+UUIDType#value
+AsciiType#value
+DoubleType#value
+CounterColumnType#value
+DecimalType#value
+BytesType#value
+DateType#value

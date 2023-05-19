@@ -1,0 +1,12 @@
+PetriNet#name
+Transition#min_time
+Transition#max_time
+Node#name
+Place#initialMarking
+Arc#kind
+Arc#weight
+Place_dynamic#marking
+FireTransitionEvent#time
+PNSimEvent#internal
+PNSimEvent#date
+PNSimEvent#name

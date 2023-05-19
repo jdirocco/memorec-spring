@@ -1,0 +1,7 @@
+StateRule#name
+EntryRule#kind
+EntryRule#behaviorName
+DoRule#kind
+DoRule#behaviorName
+ExitRule#kind
+ExitRule#behaviorName

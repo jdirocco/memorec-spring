@@ -1,0 +1,13 @@
+StateMachine#name
+AbstractState#name
+Trigger#expression
+Pseudostate#kind
+VarDecl#key
+IntegerLit#value
+StringLit#value
+BoolLit#value
+ArithmeticExpression#operator
+RelationalExpression#operator
+VarReference#key
+ConsoleOutput#input
+Wait#miliseconds

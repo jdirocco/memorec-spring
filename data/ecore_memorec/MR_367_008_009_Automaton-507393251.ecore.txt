@@ -1,0 +1,7 @@
+Automaton#eventPatternId
+State#label
+TimedZone#time
+Parameter#position
+Parameter#symbolicName
+ParameterBinding#symbolicName
+ParameterBinding#value

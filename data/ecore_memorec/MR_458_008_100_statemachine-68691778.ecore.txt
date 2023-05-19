@@ -1,0 +1,3 @@
+State#initial
+State#terminal
+Transition#label

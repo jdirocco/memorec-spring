@@ -1,0 +1,8 @@
+Root#FSmachineName
+AbstractObject#name
+AbstractObject#active
+AbstractConection#name
+State#description
+State#data
+ReasonConnection#reason
+TimeConnection#when

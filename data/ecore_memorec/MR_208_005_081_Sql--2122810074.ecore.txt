@@ -1,0 +1,17 @@
+Database#name
+Table#name
+Constraint#name
+Constraint#type
+Constraint#reference
+Column#name
+Column#type
+Column#nullable
+Column#size
+Sequence#name
+Sequence#minValue
+Sequence#maxValue
+Sequence#incrementby
+Sequence#startwith
+Sequence#currentValue
+Sequence#cycle
+Cell#value

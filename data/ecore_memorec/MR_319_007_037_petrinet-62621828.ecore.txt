@@ -1,0 +1,4 @@
+GeometryLabel#text
+Token#text
+Identity#text
+InputPlace#text

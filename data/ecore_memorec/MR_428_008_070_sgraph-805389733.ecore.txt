@@ -1,0 +1,11 @@
+NamedElement#name
+Region#priority
+Transition#priority
+Entry#kind
+ExpressionElement#expression
+ScopedElement#namespace
+State#orthogonal
+State#submachine
+State#simple
+State#composite
+State#leaf

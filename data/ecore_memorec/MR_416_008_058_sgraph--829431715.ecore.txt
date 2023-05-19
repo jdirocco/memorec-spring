@@ -1,0 +1,13 @@
+NamedElement#name
+Region#priority
+Transition#priority
+Choice#kind
+Entry#kind
+SpecificationElement#specification
+ScopedElement#namespace
+State#orthogonal
+State#substatechartId
+State#subchart
+State#simple
+State#composite
+State#leaf

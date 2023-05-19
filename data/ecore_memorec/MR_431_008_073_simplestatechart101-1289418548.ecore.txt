@@ -1,0 +1,9 @@
+Thing#id
+NamedElement#name
+RelatedTo#since
+Variable#type
+Variable#value
+Transition#expression
+State#label
+State#type
+State#activity

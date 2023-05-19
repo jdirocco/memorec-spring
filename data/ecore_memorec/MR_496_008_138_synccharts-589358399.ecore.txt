@@ -1,0 +1,14 @@
+Action#delay
+Action#isImmediate
+Action#label
+Substitution#formal
+Substitution#actual
+State#type
+State#isInitial
+State#isFinal
+Transition#priority
+Transition#type
+Transition#isHistory
+Scope#id
+Scope#label
+Scope#interfaceDeclaration

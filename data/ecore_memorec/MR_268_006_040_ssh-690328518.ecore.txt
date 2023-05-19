@@ -1,0 +1,9 @@
+SpreadsheetFile#nbSheet
+Sheet#name
+Text#textContent
+Title#hiearchy
+Image#width
+Image#height
+Point#x
+Point#y
+Table#nbColumns

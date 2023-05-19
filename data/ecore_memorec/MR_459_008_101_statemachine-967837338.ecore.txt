@@ -1,0 +1,7 @@
+StateMachine#name
+CompositeState#isConcurrent
+Action#value
+Transition#description
+Event#name
+Guard#expression
+Label#name

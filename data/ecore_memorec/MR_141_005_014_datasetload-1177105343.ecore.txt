@@ -1,0 +1,16 @@
+DataSource#Name
+DataSource#Connected
+TableGroup#Name
+Table#Name
+Table#ParamTableGroupAttributes
+Table#SQLStatement
+Table#ColumnTableRowAttributes
+Table#KeyColumns
+Table#LastLoad
+Table#NumberOfRows
+TableRow#RowNumber
+TableRow#Key
+TableRow#NewRow
+DataSourceJdbc#DataBaseUser
+DataSourceJdbc#DataBaseUserPwd
+DataSourceJdbc#DefaultSchema

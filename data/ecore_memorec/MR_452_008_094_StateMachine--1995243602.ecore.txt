@@ -1,0 +1,17 @@
+State#isInitial
+State#isActive
+Transition#isEnabled
+Transition#isFireable
+NamedElement#name
+ChangeTrainHeadingSpeed#newHeadingSpeed
+ChangeSignalAllowedSpeed#newAllowedSpeed
+ChangeTurnoutDirection#newTurnoutDirection
+TrainCurrentHeadingSpeed#currentHeadingSpeed
+TurnoutCurrentDirection#currentTurnoutDirection
+SignalCurrentAllowedSpeed#currentAllowedSpeed
+TrainHeadingSpeedChanged#newHeadingSpeed
+SignalAllowedSpeedChanged#newAllowedSpeed
+TurnoutDirectionChanged#newTurnoutDirection
+ActionExpression#expression
+GuardExpression#expression
+TriggerExpression#expression

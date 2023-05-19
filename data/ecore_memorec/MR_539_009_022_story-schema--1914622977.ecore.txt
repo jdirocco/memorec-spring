@@ -1,0 +1,10 @@
+StorySchemaCatalog#generatedPackageName
+StorySchemaCatalog#xmiUrl
+StorySchemaCatalog#ecoreUrl
+ActionType#status
+ActionLike#tenses
+ActionLike#pastTense
+ActionLike#pluralPastTense
+ActionLike#presentTense
+ActionLike#pluralPresentTense
+ActionLike#imperativeTense

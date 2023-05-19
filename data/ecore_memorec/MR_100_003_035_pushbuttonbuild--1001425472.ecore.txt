@@ -1,0 +1,10 @@
+BuildType#isIncubation
+BuildType#jre
+BuildType#newsgroupPublisherEmail
+BuildType#parentProjectName
+BuildType#projectNamespace
+BuildType#shortName
+BuildType#testsAreJarred
+BuildType#newsgroupPublisherName
+DocumentRoot#mixed
+ExtraZIPType#name

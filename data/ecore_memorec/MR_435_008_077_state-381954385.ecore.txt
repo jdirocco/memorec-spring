@@ -1,0 +1,10 @@
+State#isSimple
+State#isComposite
+NamedElement#name
+NamedElement#id
+Transition#kind
+Behaviour#body
+Behaviour#language
+OpaqueExpression#body
+Event#body
+PseudoState#kind

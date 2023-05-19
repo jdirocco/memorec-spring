@@ -1,0 +1,13 @@
+mComp#type
+mComp#name
+mPort#name
+mPort#io
+mPort#type
+mFSM#name
+mVariable#name
+mVariable#type
+mState#name
+mTransition#name
+mTransition#triggerExp
+mTransition#guard
+mTransition#action

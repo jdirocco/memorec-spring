@@ -1,0 +1,7 @@
+NamedElement#name
+Column#type
+Column#isPrimaryKey
+Column#null
+Column#defaultValue
+Column#comment
+IntegerColumn#isAutoIncrement

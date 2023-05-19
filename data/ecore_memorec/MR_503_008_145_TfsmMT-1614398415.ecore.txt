@@ -1,0 +1,8 @@
+TFSM#stepNumber
+TFSM#lastStateChangeStepNumber
+Transition#action
+NamedElement#name
+TemporalGuard#afterDuration
+FSMEvent#isTriggered
+FSMClock#numberOfTicks
+EvaluateGuard#condition

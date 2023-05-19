@@ -1,0 +1,6 @@
+LocatedElement#location
+NamedElement#name
+Step#isInitial
+Step#isActive
+Step#action
+Transition#condition

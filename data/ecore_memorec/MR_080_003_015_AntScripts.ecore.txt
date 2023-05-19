@@ -1,0 +1,17 @@
+NamedElement#name
+DescribableElement#description
+CommentableElement#comment
+Property#name
+Property#value
+Property#location
+Property#refid
+Property#resource
+Property#file
+Property#url
+Property#environment
+Property#classpath
+Property#classpathref
+Property#prefix
+Target#if
+Target#unless
+Attribute#value

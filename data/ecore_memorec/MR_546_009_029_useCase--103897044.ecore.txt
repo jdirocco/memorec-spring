@@ -1,0 +1,6 @@
+NamedElement#name
+MultiplicityElement_c#sourceLower
+MultiplicityElement_c#sourceUpper
+MultiplicityElement_c#targetLower
+MultiplicityElement_c#targetUpper
+Extend_c#Expression

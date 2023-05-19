@@ -1,0 +1,6 @@
+Named#name
+PathElement#name
+FunctionCall#function
+IntegerLiteral#value
+StringLiteral#value
+BooleanLiteral#value

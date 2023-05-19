@@ -1,0 +1,8 @@
+DocumentRoot#mixed
+MetaData#groupId
+MetaData#artifactId
+MetaData#version
+Versioning#release
+Versioning#latest
+Versioning#lastUpdated
+Versions#version

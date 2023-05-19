@@ -1,0 +1,10 @@
+Spreadsheet#FilePath
+Spreadsheet#Label
+Sheet#SheetName
+Sheet#SheetIndex
+Row#RowIndex
+Column#ColumnIndex
+Cell#ValueFormatted
+Cell#CellType
+Cell#DoubleValue
+Cell#StringValue

@@ -1,0 +1,5 @@
+Transition#triggerEventName
+State#name
+State#duration
+StateMachine#name
+Condition#expression

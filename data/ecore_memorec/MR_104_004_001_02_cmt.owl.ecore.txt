@@ -1,0 +1,9 @@
+Person#email
+Conference#date
+Conference#reviewsPerPaper
+Conference#logoURL
+Conference#acceptsHardcopySubmissions
+Conference#siteURL
+ProgramCommitteeMember#maxPapers
+Paper#paperID
+Paper#title

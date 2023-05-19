@@ -1,0 +1,6 @@
+Place#token
+Place#name
+Arc#weight
+Arc#toPlace
+Transition#name
+PetriNet#name

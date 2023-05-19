@@ -1,0 +1,10 @@
+Requirement#identifier
+Requirement#name
+Requirement#priority
+Requirement#isMandatory
+Category#name
+TextualDescription#description
+Person#name
+SimpleDependency#comment
+BinaryOperatorArgument#operator
+DocumentRoot#name

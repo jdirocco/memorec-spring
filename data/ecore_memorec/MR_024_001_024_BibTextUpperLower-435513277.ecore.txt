@@ -1,0 +1,4 @@
+LocatedElement#location
+BibTextEntry#key
+Attribute#value
+Author#name

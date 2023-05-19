@@ -1,0 +1,7 @@
+Makefile#name
+Element#name
+Macro#value
+ShellLine#command
+ShellLine#display
+Comment#text
+FileDep#name

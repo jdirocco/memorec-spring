@@ -1,0 +1,7 @@
+UseCase#name
+UseCase#description
+FlowOfEvents#name
+Step#name
+Agent#name
+Condition#expression
+Action#description

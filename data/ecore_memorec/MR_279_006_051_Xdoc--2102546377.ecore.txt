@@ -1,0 +1,15 @@
+Identifiable#name
+TextPart#text
+Link#url
+Link#text
+ImageRef#name
+ImageRef#path
+ImageRef#clazz
+ImageRef#style
+ImageRef#caption
+Code#contents
+Todo#text
+LangDef#keywords
+LangDef#name
+GlossaryEntry#name
+GlossaryEntry#alias

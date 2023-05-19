@@ -1,0 +1,6 @@
+State#name
+Transition#token
+Transition#name
+Initial#name
+Final#name
+Current#name

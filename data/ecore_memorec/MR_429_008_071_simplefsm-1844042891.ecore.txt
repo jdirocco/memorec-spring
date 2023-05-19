@@ -1,0 +1,5 @@
+SimpleFiniteStateMachine#name
+State#name
+State#action
+Transition#name
+Transition#event

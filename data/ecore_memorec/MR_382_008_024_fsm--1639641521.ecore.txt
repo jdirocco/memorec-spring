@@ -1,0 +1,5 @@
+State#name
+Transition#Guard
+Transition#Effect
+Action#entryLabel
+eAction#exitLabel

@@ -1,0 +1,14 @@
+NamedElement#name
+NamedElement#documentation
+Column#nullable
+Column#primaryKey
+Column#size
+Column#scale
+Column#arrayDimensions
+Column#unique
+ForeignKey#sourceLowerBoundary
+ForeignKey#sourceUpperBoundary
+ForeignKey#targetLowerBoundary
+ForeignKey#targetUpperBoundary
+Tag#name
+Tag#documentation

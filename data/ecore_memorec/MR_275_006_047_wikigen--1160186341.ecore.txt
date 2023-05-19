@@ -1,0 +1,6 @@
+GenLatexDocument#title
+GenLatexDocument#filename
+GenLatexDocument#authors
+GenHtmlDocument#filename
+Article#nbColumns
+Article#generateTOC

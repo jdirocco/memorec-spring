@@ -1,0 +1,7 @@
+StateMachine#name
+StateMachine#package
+State#name
+Event#name
+DocumentField#name
+FieldState#state
+Role#name

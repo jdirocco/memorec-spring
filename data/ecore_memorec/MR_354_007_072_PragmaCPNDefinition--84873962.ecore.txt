@@ -1,0 +1,4 @@
+Pragma#text
+OntologyDocument#iri
+OntologyDocument#path
+PragmaticsOntology#manager

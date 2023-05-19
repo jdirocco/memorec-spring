@@ -1,0 +1,9 @@
+Model#viewName
+Metamodel#metamodelURL
+Select#select
+Attribute#name
+Class#name
+MetamodelName#name
+Relation#name
+EclExpression#value
+Right#value

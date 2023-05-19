@@ -1,0 +1,10 @@
+Database#name
+Database#url
+Schema#name
+Table#name
+ForeignKey#name
+Column#name
+Column#type
+Column#isPrimaryKey
+Column#isUnique
+ModelElement#comment

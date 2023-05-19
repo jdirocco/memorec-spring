@@ -1,0 +1,10 @@
+Automaton#name
+State#name
+Transition#name
+Activation#name
+ReturnValue#name
+ReturnValue#isVoid
+Input#name
+Output#name
+Object#name
+Operation#name

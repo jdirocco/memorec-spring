@@ -1,0 +1,3 @@
+Column#type
+RModelElement#kind
+RModelElement#name

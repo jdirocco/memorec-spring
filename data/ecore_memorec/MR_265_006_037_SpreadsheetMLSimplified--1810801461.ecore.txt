@@ -1,0 +1,8 @@
+Worksheet#name
+ColOrRowElement#hidden
+ColOrRowElement#span
+TableElement#index
+Cell#formula
+NumberValue#value
+StringValue#value
+BooleanValue#value

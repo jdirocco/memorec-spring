@@ -1,0 +1,15 @@
+Place#token
+Place#finalMarking
+Node#name
+Node#type
+RefMarkedPlace#token
+Annotation#text
+Arc#weight
+TransitionExt#probability
+TransitionExt#minTime
+TransitionExt#cost
+TransitionExt#maxTime
+PlaceExt#probability
+PlaceExt#isStart
+ArcToPlaceExt#probability
+ArcToTransitionExt#probability

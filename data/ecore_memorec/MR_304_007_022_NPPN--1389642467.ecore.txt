@@ -1,0 +1,6 @@
+HLArcAddin#kind
+Instance#subPageID
+PetriNet#kind
+PetriNet#timeType
+Pragmatic#name
+Binding#template

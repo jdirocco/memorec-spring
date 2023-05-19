@@ -1,0 +1,7 @@
+Assignment#leftvar
+EXPRESSION#operator
+TERM#variable
+TERM#constant
+EventAction#eventName
+EventAction#eventExtension
+Parameters#param

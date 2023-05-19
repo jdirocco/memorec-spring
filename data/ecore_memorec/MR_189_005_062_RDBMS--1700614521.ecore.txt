@@ -1,0 +1,6 @@
+Schema#name
+Table#name
+Column#name
+Column#type
+Key#name
+ForeignKey#name

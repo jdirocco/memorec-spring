@@ -1,0 +1,5 @@
+PetriNet#name
+Node#name
+Place#marking
+Arc#multiplicity
+Arc#readOnly

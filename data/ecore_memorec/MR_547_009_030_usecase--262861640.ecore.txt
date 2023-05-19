@@ -1,0 +1,4 @@
+NamedElement#name
+DirectedAssociation#targetName
+Association#targetName
+Association#sourceName

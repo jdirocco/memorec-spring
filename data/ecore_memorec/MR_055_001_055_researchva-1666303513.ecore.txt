@@ -1,0 +1,11 @@
+Researcher#name
+Researcher#forName
+Paragraph#content
+ReviewNote#content
+Write#timeSpent
+Review#date
+Named#name
+Counted#id
+Labelled#lname
+Skill#description
+Keyword#word

@@ -1,0 +1,5 @@
+Automaton#name
+AlphabetSymbol#symbol
+State#name
+State#isInitial
+State#isFinal

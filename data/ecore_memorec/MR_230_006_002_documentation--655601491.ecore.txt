@@ -1,0 +1,7 @@
+Book#title
+Section#title
+TextualValue#value
+EmphasisValue#value
+EmphasisValue#role
+InformalTableValueGroup#cols
+InformalTableValueEntry#value

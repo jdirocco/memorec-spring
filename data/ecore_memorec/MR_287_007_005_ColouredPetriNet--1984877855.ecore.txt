@@ -1,0 +1,7 @@
+Type#name
+PrimitiveAttribute#name
+PrimitiveAttribute#primType
+Token#values
+Arc#weight
+IdentifiableElement#name
+IdentifiableElement#author

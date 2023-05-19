@@ -1,0 +1,11 @@
+PrefixDefinition#pref
+IRI#id
+Variable#symbol
+AnonymousIndividual#nodeID
+Literal#lexicalForm
+ObjectMinCardinality#cardinality
+ObjectMaxCardinality#cardinality
+ObjectExactCardinality#cardinality
+DataMinCardinality#cardinality
+DataMaxCardinality#cardinality
+DataExactCardinality#cardinality

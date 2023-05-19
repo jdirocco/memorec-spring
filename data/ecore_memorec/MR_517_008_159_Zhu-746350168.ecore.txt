@@ -1,0 +1,6 @@
+Region#name
+Transition#guard
+Transition#behaviour
+State#name
+TriggersSeparated#firstTrigger
+TriggersSeparated#followingTriggers

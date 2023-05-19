@@ -1,0 +1,9 @@
+SingleColumnExpression#alias
+Column#name
+TableExpression#label
+Table#name
+OrderByAliasExpression#alias
+LimitExpression#limit
+LimitExpression#offset
+FunctionValue#functionName
+SimpleTerm#value

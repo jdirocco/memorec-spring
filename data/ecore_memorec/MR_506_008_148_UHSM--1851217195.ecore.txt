@@ -1,0 +1,6 @@
+State#name
+Transition#trigger
+Transition#effect
+Transition#name
+StateMachine#name
+TracedClass#trace

@@ -1,0 +1,8 @@
+NamedElement#name
+Sequence#cacheSize
+TableColumn#type
+CreateTable#tableName
+RenameTable#newName
+AddColumn#newColumnName
+RenameColumn#newColumnName
+TypeChangeToColumn#newType

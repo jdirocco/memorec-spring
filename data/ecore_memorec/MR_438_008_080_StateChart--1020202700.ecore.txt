@@ -1,0 +1,9 @@
+Model#name
+Node#name
+Node#label
+Node#type
+Node#activity
+Transition#TE
+Transition#name
+Variable#name
+Variable#type

@@ -1,0 +1,2 @@
+PetriNet#name
+Node#name

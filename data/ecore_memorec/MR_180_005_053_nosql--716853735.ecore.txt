@@ -1,0 +1,10 @@
+KeySpace#name
+KeySpace#replicationFactor
+KeySpace#replicaPlacementStrategy
+ColumnFamily#name
+Column#name
+PrimitiveType#kind
+MapType#keyType
+MapType#baseType
+CollectionType#kind
+CollectionType#keyType

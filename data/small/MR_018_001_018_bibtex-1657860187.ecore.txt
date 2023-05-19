@@ -1,0 +1,6 @@
+Person#firstName
+Person#secondName
+Person#lastName
+StringValue#value
+YearValue#value
+IntValue#value

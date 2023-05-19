@@ -1,0 +1,17 @@
+Conference#name
+Talk#name
+Talk#abstract
+Talk#duration
+Talk#time
+Person#name
+Person#organisation
+Track#name
+Subject#description
+Subject#isDone
+Day#name
+Location#name
+Day#name
+Story#name
+Task#name
+Participant#age
+Participant#attitude

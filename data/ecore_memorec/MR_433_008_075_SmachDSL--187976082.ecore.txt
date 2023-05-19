@@ -1,0 +1,10 @@
+Test#ros
+StateMachine#name
+ActionClient#name
+ActionClient#actionname
+ActionClient#actiontype
+ServiceClient#name
+ServiceClient#servicename
+ServiceClient#servicesrv
+ActionState#name
+Transition#outcome

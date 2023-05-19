@@ -1,0 +1,6 @@
+Scheme#name
+Table#name
+Column#name
+Column#type
+Column#NotNull
+Column#PrimaryKey

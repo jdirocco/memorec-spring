@@ -1,0 +1,17 @@
+Article#firstPage
+Article#lastPage
+Book#iSBN
+Book#volume
+Book#edition
+Book#series
+BookArticle#section
+Content#body
+Indexing#keywords
+Journal#iSSN
+JournalIssue#volume
+JournalIssue#issue
+JournalIssue#issueSupplement
+SimpleCitation#authorList
+SimpleCitation#date
+SimpleCitation#source
+WebResource#uRL

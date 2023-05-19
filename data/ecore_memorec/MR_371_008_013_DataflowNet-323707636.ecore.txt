@@ -1,0 +1,6 @@
+NamedElement#name
+StateMachineTransition#priority
+FiringRule#compType
+Token#value
+DataflowSystem#protocol
+Process#host

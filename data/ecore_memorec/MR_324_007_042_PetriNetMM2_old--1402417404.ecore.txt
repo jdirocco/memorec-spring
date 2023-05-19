@@ -1,0 +1,7 @@
+PetriNet#name
+Place#name
+Place#relevance
+Transition#name
+Transition#relevance
+Arc#weight
+GenericPT#label

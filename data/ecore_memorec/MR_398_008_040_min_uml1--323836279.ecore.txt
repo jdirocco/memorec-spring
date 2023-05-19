@@ -1,0 +1,5 @@
+ModelElement#name
+ActionState#isDynamic
+Pseudostate#kind
+BooleanExpression#language
+BooleanExpression#body

@@ -1,0 +1,3 @@
+NamedElement#name
+DataBase#SGBDname
+TupleElement#value

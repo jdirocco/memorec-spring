@@ -1,0 +1,7 @@
+Place#name
+Place#capacity
+Place#numberOfTokens
+PetriNet#name
+Transition#name
+InputArc#weight
+OutputArc#weight

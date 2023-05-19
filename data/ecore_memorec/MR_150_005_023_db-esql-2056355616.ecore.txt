@@ -1,0 +1,5 @@
+CursorTerm#cursorType
+CursorTerm#hold
+CursorTerm#sql
+CursorTerm#statementName
+ESqlTerm#name

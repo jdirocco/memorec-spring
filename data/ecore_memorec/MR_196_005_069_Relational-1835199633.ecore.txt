@@ -1,0 +1,11 @@
+Schema#name
+Table#name
+Attribute#name
+Attribute#type
+Attribute#nullable
+Attribute#multiplicity
+Domain#name
+CandidateKey#name
+EnumeratedLiteral#name
+Constraint#name
+Constraint#description

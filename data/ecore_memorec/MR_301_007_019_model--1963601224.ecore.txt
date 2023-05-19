@@ -1,0 +1,10 @@
+HLAnnotationAddin#text
+HLArcAddin#kind
+HasId#id
+Instance#subPageID
+ParameterAssignment#parameter
+ParameterAssignment#value
+PetriNet#kind
+PetriNet#timeType
+ToolInfo#tool
+ToolInfo#version

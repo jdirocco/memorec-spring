@@ -1,0 +1,8 @@
+Table#storageEngine
+Table#collation
+Column#type
+Column#nullable
+Column#default
+Column#length
+Column#collation
+NamedElement#name

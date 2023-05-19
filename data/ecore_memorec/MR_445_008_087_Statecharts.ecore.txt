@@ -1,0 +1,2 @@
+BooleanExpression#value
+CompositeState#isConcurrent

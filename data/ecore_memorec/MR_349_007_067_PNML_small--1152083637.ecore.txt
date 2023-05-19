@@ -1,0 +1,7 @@
+PNMLDocument#location
+PlaceElement#name
+PlaceElement#tokens
+TransitionElement#name
+Element#id
+Element#location
+NetElement#name
