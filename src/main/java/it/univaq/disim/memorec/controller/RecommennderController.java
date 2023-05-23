@@ -1,12 +1,11 @@
 package it.univaq.disim.memorec.controller;
 
 import java.util.List;
+import java.util.Map;
+import java.util.Map.Entry;
 
-import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
@@ -19,25 +18,25 @@ import it.univaq.disim.memorec.memorec.jjodel.buisiness.SimilarityCalculator;
 import it.univaq.disim.memorec.memorec.jjodel.buisiness.dto.Model;
 import it.univaq.disim.memorec.memorec.jjodel.buisiness.dto.RecommendationRequest;
 import it.univaq.disim.memorec.memorec.jjodel.buisiness.dto.RecommendationResult;
-import java.util.Map;
-import java.util.Map.Entry;
 
 @RestController
 public class RecommennderController {
 	private List<Model> sfDataset;
 	private List<Model> classDataset;
 	private DataReader dr = new DataReader();
-	private final static String classDatasetPath = "data/ecore_memorec/";
-	private final static String sfDatasetPath = "data/ecore_memorec/";
+	private final static String classDatasetPath = "data/cls_sf/";
+	private final static String sfDatasetPath = "data/cls_sf/";
+	private final static String sf_modelPath = "data/cls_sf_test.txt";
+	private final static String cls_modelPath = "data/pkg_cls_test.txt";
+
 	public RecommennderController() {
 		sfDataset = dr.readModels(sfDatasetPath);
 		classDataset = dr.readModels(classDatasetPath);
-		//Model input = dr.readModel(modelPath);
+		// Model input = dr.readModel(modelPath);
 	}
-	private final static String modelPath = "data/ecore_memorec/juri.txt";
 
-	@PostMapping(value = "/structuralFeatures",  consumes = "application/json", produces = {
-			"application/json", "application/xml" })
+	@PostMapping(value = "/structuralFeatures", consumes = "application/json", produces = { "application/json",
+			"application/xml" })
 	public @ResponseBody List<RecommendationResult> getStrucutralFeatureRecommendations(
 			@RequestBody RecommendationRequest input) {
 		Recommender memoRec = new Recommender(new SimilarityCalculator(), 10);
@@ -47,37 +46,30 @@ public class RecommennderController {
 			for (Entry<String, Float> entry : recMap.entrySet())
 				result.add(new RecommendationResult(entry.getKey(), entry.getValue()));
 		} catch (ActiveDeclarationNotFoundException e) {
-			
-		} catch (NullPointerException e){
+
+		} catch (NullPointerException e) {
 			e.printStackTrace();
 		}
 		return result;
 	}
-	
-	@PostMapping(value = "/classes",  consumes = "application/json", produces = {
-			"application/json", "application/xml" })
-	public @ResponseBody List<RecommendationResult> getClassRecommendations(
-			@RequestBody RecommendationRequest input) {
+
+	@PostMapping(value = "/classes", consumes = "application/json", produces = { "application/json",
+			"application/xml" })
+	public @ResponseBody List<RecommendationResult> getClassRecommendations(@RequestBody RecommendationRequest input) {
 		Recommender memoRec = new Recommender(new SimilarityCalculator(), 10);
 		List<RecommendationResult> result = Lists.newArrayList();
+
 		try {
-			Map<String, Float> recMap = memoRec.recommend(classDataset, input.getModel(), input.getContext());
+			Map<String, Float> recMap = memoRec.recommend(classDataset, dr.readModel(cls_modelPath),
+					input.getContext());
 			for (Entry<String, Float> entry : recMap.entrySet())
 				result.add(new RecommendationResult(entry.getKey(), entry.getValue()));
 		} catch (ActiveDeclarationNotFoundException e) {
-			
-		} catch (NullPointerException e){
+
+		} catch (NullPointerException e) {
 			e.printStackTrace();
 		}
 		return result;
 	}
-	
-	
-	@GetMapping("/hello")
-	public @ResponseBody Model sayHello() {
-		
-		return dr.readModel(modelPath);
-	}
-	
 
 }
