@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -35,6 +36,7 @@ public class RecommennderController {
 		// Model input = dr.readModel(modelPath);
 	}
 
+	@CrossOrigin(origins = "http://localhost:3000")
 	@PostMapping(value = "/structuralFeatures", consumes = "application/json", produces = { "application/json",
 			"application/xml" })
 	public @ResponseBody List<RecommendationResult> getStrucutralFeatureRecommendations(
@@ -53,6 +55,7 @@ public class RecommennderController {
 		return result;
 	}
 
+	@CrossOrigin(origins = "http://localhost:3000")
 	@PostMapping(value = "/classes", consumes = "application/json", produces = { "application/json",
 			"application/xml" })
 	public @ResponseBody List<RecommendationResult> getClassRecommendations(@RequestBody RecommendationRequest input) {
