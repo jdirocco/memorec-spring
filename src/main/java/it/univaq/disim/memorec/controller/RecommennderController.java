@@ -5,6 +5,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 import org.springframework.web.bind.annotation.CrossOrigin;
+import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
@@ -25,17 +26,21 @@ public class RecommennderController {
 	private List<Model> sfDataset;
 	private List<Model> classDataset;
 	private DataReader dr = new DataReader();
-	private final static String classDatasetPath = "data/cls_sf/";
+	private final static String classDatasetPath = "data/pkg_cls/";
 	private final static String sfDatasetPath = "data/cls_sf/";
 	private final static String sf_modelPath = "data/cls_sf_test.txt";
-	private final static String cls_modelPath = "data/pkg_cls_test.txt";
+	private final static String cls_modelPath = "data/pkg_cls/183_005_056_org.talend.cwm.ext400-257203706.txt";
 
 	public RecommennderController() {
 		sfDataset = dr.readModels(sfDatasetPath);
 		classDataset = dr.readModels(classDatasetPath);
 		// Model input = dr.readModel(modelPath);
 	}
-
+	@GetMapping("esempio")
+	public @ResponseBody Model getRequest() {
+		Model packageDataset = dr.readModel(cls_modelPath);
+		return packageDataset;
+	}
 	@CrossOrigin(origins = "http://localhost:3000")
 	@PostMapping(value = "/structuralFeatures", consumes = "application/json", produces = { "application/json",
 			"application/xml" })
