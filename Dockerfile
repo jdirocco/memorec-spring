@@ -4,5 +4,5 @@ WORKDIR /app
 
 COPY . .
 EXPOSE 8080
-CMD mvn --version
+RUN mvn clean install
 CMD mvn spring-boot:run -X
