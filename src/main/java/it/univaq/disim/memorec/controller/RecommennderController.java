@@ -68,7 +68,7 @@ public class RecommennderController {
 		List<RecommendationResult> result = Lists.newArrayList();
 
 		try {
-			Map<String, Float> recMap = memoRec.recommend(classDataset, dr.readModel(cls_modelPath),
+			Map<String, Float> recMap = memoRec.recommend(classDataset, input.getModel(),
 					input.getContext());
 			for (Entry<String, Float> entry : recMap.entrySet())
 				result.add(new RecommendationResult(entry.getKey(), entry.getValue()));
