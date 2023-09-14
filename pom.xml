@@ -13,7 +13,7 @@
 	<artifactId>memorec.jjodel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>memorec.jjodel</name>
-	<description>Demo project for Spring Boot</description>
+	<description>JJodel Memorec service</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
@@ -34,6 +34,22 @@
 			<artifactId>guava</artifactId>
 			<version>15.0</version>
 		</dependency>
+
+		<!-- SPRING BOOT DEV TOOLS -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-devtools</artifactId>
+			<scope>runtime</scope>
+			<optional>true</optional>
+		</dependency>
+
+		<!-- SPRING BOOT CONFIGURATION PROCESSOR -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-configuration-processor</artifactId>
+			<optional>true</optional>
+		</dependency>
+		
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
