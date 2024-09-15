@@ -35,14 +35,14 @@ public class RecommenderController {
 		classDataset = dr.readModels(classDatasetPath);
 		// Model input = dr.readModel(modelPath);
 	}
-	
+
 	@GetMapping("esempio")
 	public @ResponseBody Model getRequest() {
 		Model packageDataset = dr.readModel(cls_modelPath);
 		return packageDataset;
 	}
-	
-	//@CrossOrigin(origins = "http://localhost:3000")
+
+	@CrossOrigin(origins = "http://localhost:3000")
 	@PostMapping(value = "/structuralFeatures", consumes = "application/json", produces = { "application/json",
 			"application/xml" })
 	public @ResponseBody List<RecommendationResult> getStrucutralFeatureRecommendations(
@@ -61,7 +61,7 @@ public class RecommenderController {
 		return result;
 	}
 
-	//@CrossOrigin(origins = "http://localhost:3000")
+	@CrossOrigin(origins = "http://localhost:3000")
 	@PostMapping(value = "/classes", consumes = "application/json", produces = { "application/json",
 			"application/xml" })
 	public @ResponseBody List<RecommendationResult> getClassRecommendations(@RequestBody RecommendationRequest input) {
